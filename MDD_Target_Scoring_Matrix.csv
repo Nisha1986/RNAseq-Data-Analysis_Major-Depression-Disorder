@@ -1,0 +1,4 @@
+Gene	SMART Domain	InterPro Domain Summary	Reactome Pathways	KEGG Pathways	MDD Relevance	Druggability Potential
+C1QL2	C1Q	C1q, TNF-like, Cerebellin synaptic organizer	Not yet annotated	Not listed	High – Synaptic plasticity, immune modulation, circuit stability	Moderate – Emerging, requires ligand studies
+SERPINE1	SERPIN	Serpin family, Serpin conserved site/superfamily	TGF-beta, Hemostasis, Circadian clock, ECM remodeling	HIF-1, p53, TGF-beta, AGE-RAGE, Complement	High – Inflammation, neurovascular regulation, circadian rhythm	High – Existing drugs and inhibitors available
+FAT2	CA, EGF_CA, EGF, LamG	EGF-like, Cadherin, Laminin G	Not specifically linked to MDD	Not listed	Low – Developmental adhesion, indirect CNS role	Low – Structural, hard to target
